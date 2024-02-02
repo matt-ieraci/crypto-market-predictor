@@ -1,3 +1,7 @@
 data/
 notebooks/chart_testing.ipynb
+notebooks/data_preproc_old.ipynb
+src/fetch_data.py
+src/fetch_and_save_data.py
 __pycache__/
+.python-version
